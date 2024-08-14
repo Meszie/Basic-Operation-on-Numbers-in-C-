@@ -1,0 +1,10 @@
+int value = 1;
+value++;
+Console.WriteLine($"First: {value}"); //output First: 2
+Console.WriteLine($"Second: {value++}"); //output Second: 2
+Console.WriteLine($"Third: {value}"); //output Third: 3
+Console.WriteLine($"Fourth: {++value}"; //output Fourth: 4
+
+
+
+
